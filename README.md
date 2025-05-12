@@ -32,10 +32,10 @@ I’m Dhruv — a passionate developer who believes in building tools that simpl
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats Card -->
-![](https://github-readme-stats.vercel.app/api?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=400&border_radius=10)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=400&border_radius=10)
 
 <!-- GitHub Streak Stats Card -->
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-cmd7&theme=github_dark&hide_border=true&card_width=400&border_radius=10)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-cmd7&theme=github_dark&hide_border=true&card_width=400&border_radius=10)
 
 <!-- Top Languages Card -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=400&border_radius=10)
