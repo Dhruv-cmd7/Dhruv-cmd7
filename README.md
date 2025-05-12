@@ -3,10 +3,24 @@ I’m Dhruv — a passionate developer who believes in building tools that simpl
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UEEjxwBV)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___dhruvvv_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-soni-094811285)
+# 🌐 Connect With Me
+
+---
+
+## 📧 Contact Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dhruvsoni930@gmail.com)
+
+---
+
+## 🤝 Social Media:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-soni-094811285)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___dhruvvv_)
+
+---
+
+## 🎮 Join Me on Discord:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UEEjxwBV)
+
 
 
 # 💻 Tech Stack:
