@@ -31,9 +31,15 @@ I’m Dhruv — a passionate developer who believes in building tools that simpl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=34495E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-cmd7&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&card_width=400&border_radius=10)<br/>
+
+<!-- GitHub Streak Stats Card -->
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-cmd7&theme=github_dark&hide_border=true&card_width=400&border_radius=10)<br/>
+
+<!-- Top Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-cmd7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=400&border_radius=10)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruv-cmd7&theme=dark&no-frame=true&no-bg=true&margin-w=4)
