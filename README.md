@@ -3,10 +3,11 @@ I’m Dhruv — a passionate developer who believes in building tools that simpl
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge&color=7289DA)](https://discord.gg/UEEjxwBV)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=for-the-badge&color=F5A9A1)](https://instagram.com/___dhruvvv_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge&color=4D88FF)](https://www.linkedin.com/in/dhruv-soni-094811285)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&color=FF6F61)](mailto:Dhruvsoni930@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&color=2C2F3D)](https://discord.gg/UEEjxwBV)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=2C2F3D)](https://instagram.com/___dhruvvv_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&color=2C2F3D)](https://www.linkedin.com/in/dhruv-soni-094811285)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&color=2C2F3D)](mailto:Dhruvsoni930@gmail.com)
+
 
 
 
