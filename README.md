@@ -77,14 +77,4 @@ From UX to front-end logic, I’ve built it from the ground up to reflect one be
   <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-cmd7&theme=dark&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Dhruv-cmd7&icon=2&color=7" alt="profile views"/>
-  </a>
-</p>
-
----
-
-<!-- Created with ❤️ by Dhruv using GPRM -->
