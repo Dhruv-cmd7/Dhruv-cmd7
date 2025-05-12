@@ -1,9 +1,23 @@
-# 💫 About Me:
-I’m Dhruv — a passionate developer who believes in building tools that simplify learning and make code feel intuitive. Currently exploring the full-stack world through **CodePolarity**, a platform I designed and developed to help learners code smarter, not harder. <br>
-I’m self-taught in front-end development and UI/UX — every commit is a patch, every bug a lesson, and learning is my continuous deployment cycle.<br><br>
+## 💫 About Me
 
-🛠️ **Currently Learning:** Node.js · Express.js · AI fundamentals · Sentiment analysis · Japanese<br>  
-💡 *“Code with clarity. Learn with curiosity. Build with purpose.”*
+Hey there! I'm **Dhruv**, a passionate and purpose-driven developer who believes great code is not just functional — it’s intuitive, human-friendly, and empowering.
+
+🔧 I'm currently building **CodePolarity** — a full-stack platform designed to simplify coding education and supercharge the way learners interact with code.  
+From UX to front-end logic, I’ve built it from the ground up to reflect one belief: **clarity is power**.
+
+### 🧠 What Drives Me
+- 💡 I design with empathy, code with intent, and learn like it's my second nature.
+- 🎯 Every bug is a puzzle, every line of code is a choice, and every project is a story.
+- 🛠️ I’m self-taught in front-end and UI/UX, always refining my tools and perspective.
+
+### 🌱 Currently Exploring
+- ⚙️ Backend Development – diving into Node.js & Express.js  
+- 🤖 AI & NLP – playing with sentiment analysis & logic  
+- 🌐 Japanese – learning a new language to stretch my mind  
+
+> 💬 *“Code with clarity. Learn with curiosity. Build with purpose.”*
+
+📍 Let's connect, collaborate, and create something impactful together.
 
 ---
 
