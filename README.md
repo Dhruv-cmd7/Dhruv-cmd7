@@ -1,34 +1,12 @@
-# Welcome to my completely unique profile!
+# 👋 Welcome to my dynamic profile!
 
-Here is my live data:
+I am a developer who believes a README shouldn't be static. This profile updates itself automatically every single hour using GitHub Actions and a custom Python script.
+
+### ⚡ Live Status
 
 <!-- START_SECTION:dynamic_data -->
-import re
-import urllib.request
-import json
-
-# 1. Fetch your unique data (Example: A random programming quote)
-# To be truly unique, replace this with Spotify APIs, Strava APIs, or your own custom backend!
-url = "https://official-joke-api.appspot.com/random_joke"
-response = urllib.request.urlopen(url)
-data = json.loads(response.read())
-
-new_content = f"**Live Status:** Just heard a joke: *{data['setup']}* - {data['punchline']}"
-
-# 2. Read the current README.md
-with open("README.md", "r", encoding="utf-8") as file:
-    readme_text = file.read()
-
-# 3. Replace the text between the markers using Regex
-pattern = r"(<!-- START_SECTION:dynamic_data -->\n)(.*)(\n<!-- END_SECTION:dynamic_data -->)"
-replacement = rf"\1{new_content}\3"
-updated_readme = re.sub(pattern, replacement, readme_text, flags=re.DOTALL)
-
-# 4. Write the changes back to README.md
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(updated_readme)
-
-print("README.md updated successfully!")
+*The GitHub Action is running to fetch my latest data...*
 <!-- END_SECTION:dynamic_data -->
 
-Thanks for visiting.
+---
+*If you want to know how this works, check out the source code in this repository!*
