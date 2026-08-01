@@ -1,0 +1,38 @@
+name: Update README Live Data
+
+# 1. When should this run?
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs exactly at the top of every hour
+  workflow_dispatch: # Adds a "Run workflow" button in the Actions tab so you can test it manually
+
+# 2. What should it do?
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    # Grant permissions for the bot to push code to your repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Python Script
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          # Only attempt to commit if the README actually changed
+          git commit -m "chore: auto-update README live data" || exit 0
+          git push
